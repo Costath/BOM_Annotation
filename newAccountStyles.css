@@ -1,0 +1,11 @@
+div {
+    height: 150px;
+    width: 350px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    background-color: cadetblue;
+    margin: 100px auto auto auto;
+    align-content: center;
+    padding: 5px;   
+}
